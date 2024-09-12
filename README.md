@@ -1,4 +1,4 @@
-# Olá, eu sou Matheys Rodrigues 👋
+# Olá, eu sou Matheus Rodrigues 👋
 
 ![GitHub Banner]
 
