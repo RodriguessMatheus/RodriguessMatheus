@@ -32,7 +32,7 @@ Bem-vindo ao meu perfil no GitHub! Sou Estudante de Integração de Soluções e
 
 ## 📫 Como me encontrar
 - **E-mail:** [matheuszz.mr1@gmail.com]
-- **LinkedIn:** [[Seu perfil no LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-56896325a/)]
+- **LinkedIn:** [[Meu perfil no LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-56896325a/)]
 
 ---
 
