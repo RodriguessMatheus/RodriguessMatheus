@@ -20,8 +20,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Estudante de Integração de Soluções e
 
 ### [Integração em Nuvem]
 - **Descrição:** Projeto de automação IoT utilizando o ESP32, com controle de dispositivos como ventiladores e umidificadores, integrados via protocolo MQTT. O sistema gerencia sensores de distância (VL53L0X) para monitoramento de nível de tinta e publica informações em tópicos MQTT. Inclui um sistema de senha dinâmica para controle seguro e remoto, além de controle de LEDs e botões para interação física. O projeto é modular, com diversas bibliotecas e componentes reutilizáveis que facilitam a extensão para outros tipos de dispositivos.
-
-- **Tecnologias:** Python, C++, JavaScript
   
 - **Tecnologias:** C++, Python, MQTT, JSON, Bounce2, Preferences, PlatformIO, ESP32 SDK.
 
