@@ -23,9 +23,8 @@ Bem-vindo ao meu perfil no GitHub! Sou Estudante de Integração de Soluções e
 
 - **Tecnologias:** Python, C++, JavaScript
   
-### [Nome do Projeto](link-do-projeto)
-- **Descrição:** [Descreva o projeto brevemente aqui].
-- **Tecnologias:** C, Python.
+- **Tecnologias:** C++, Python, MQTT, JSON, Bounce2, Preferences, PlatformIO, ESP32 SDK.
+
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
