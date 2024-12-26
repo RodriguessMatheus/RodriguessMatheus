@@ -1,6 +1,5 @@
 # Olá, eu sou Matheus Rodrigues 👋
 
-![GitHub Banner]
 
 Bem-vindo ao meu perfil no GitHub! Sou Estudante de Integração de Soluções em Nuvem com experiência em automação, desenvolvimento de software e soluções de IoT. Aqui, você encontrará alguns dos meus projetos mais recentes e as tecnologias com as quais tenho trabalhado.
 
