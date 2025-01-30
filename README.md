@@ -6,7 +6,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Estudante de Integração de Soluções e
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens:**
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
